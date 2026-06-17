@@ -1,21 +1,22 @@
 [
   {
-    "EntryNo": 2,
-    "InvoiceNo": "INV102",
-    "VendorName": "Wipro",
+    "Entry No.": 2,
+    "Invoice No.": "INV002",
+    "Vendor Name": "Wipro",
     "GSTIN": "19AAACW1234B1Z2",
-    "InvoiceAmount": 62000,
-    "GSTAmount": 11160,
-    "MatchStatus": "Matched",
-    "MobileNo": "919876543210"
+    "Invoice Amount": 62000,
+    "GST Amount": 11160,
+    "Match Status": "Matched",
+    "Mobile No.": "919876543210"
   },
   {
-    "EntryNo": 3,
-    "InvoiceNo": "INV103",
-    "VendorName": "HCL",
+    "Entry No.": 3,
+    "Invoice No.": "INV003",
+    "Vendor Name": "HCL",
     "GSTIN": "07AAACH5678D1Z5",
-    "InvoiceAmount": 48500,
-    "GSTAmount": 8730,
-    "MatchStatus": "Partial"
+    "Invoice Amount": 48500,
+    "GST Amount": 8730,
+    "Match Status": "Partial",
+    "Mobile No.": "919876953210"
   }
 ]
