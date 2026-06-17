@@ -12,5 +12,19 @@
     "GSTIN": "07AAACH5678D1Z5",
     "InvoiceAmount": 48500,
     "MobileNo": "919876953210"
+  },
+   {
+    "InvoiceNo": "INV004",
+    "VendorName": "Google",
+    "GSTIN": "19AAACW9854B1Z2",
+    "InvoiceAmount": 62100,
+    "MobileNo": "919889643210"
+  },
+  {
+    "InvoiceNo": "INV005",
+    "VendorName": "Nvdia",
+    "GSTIN": "075698H5678D1Z5",
+    "InvoiceAmount": 41600,
+    "MobileNo": "919876952110"
   }
 ]
