@@ -1,0 +1,21 @@
+[
+  {
+    "EntryNo": 1,
+    "InvoiceNo": "INV101",
+    "VendorName": "Wipro",
+    "GSTIN": "19AAACW1234B1Z2",
+    "InvoiceAmount": 62000,
+    "GSTAmount": 11160,
+    "MatchStatus": "Matched",
+    "MobileNo": "919876543210"
+  },
+  {
+    "EntryNo": 2,
+    "InvoiceNo": "INV102",
+    "VendorName": "HCL",
+    "GSTIN": "07AAACH5678D1Z5",
+    "InvoiceAmount": 48500,
+    "GSTAmount": 8730,
+    "MatchStatus": "Partial"
+  }
+]
