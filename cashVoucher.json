@@ -1,0 +1,18 @@
+[
+  {
+    "PostingDate": "2027-06-01",
+    "DocumentNo": "CPV001",
+    "AccountType": "Customer",
+    "AccountNo": "C00010",
+    "Description": "Customer Payment",
+    "Amount": 25000
+  },
+  {
+    "PostingDate": "2027-06-01",
+    "DocumentNo": "CPV002",
+    "AccountType": "Customer",
+    "AccountNo": "C00020",
+    "Description": "Advance Payment",
+    "Amount": 15000
+  }
+]
