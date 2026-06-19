@@ -3,7 +3,7 @@
     "PostingDate": "2027-06-01",
     "DocumentNo": "CPV001",
     "AccountType": "Customer",
-    "AccountNo": "C00010",
+    "AccountNo": "10000",
     "Description": "Customer Payment",
     "Amount": 25000
   },
@@ -11,7 +11,7 @@
     "PostingDate": "2027-06-01",
     "DocumentNo": "CPV002",
     "AccountType": "Customer",
-    "AccountNo": "C00020",
+    "AccountNo": "20000",
     "Description": "Advance Payment",
     "Amount": 15000
   }
